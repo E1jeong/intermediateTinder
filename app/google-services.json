@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718488352080",
+    "firebase_url": "https://fastcampus-intermediate-tinder-default-rtdb.firebaseio.com",
+    "project_id": "fastcampus-intermediate-tinder",
+    "storage_bucket": "fastcampus-intermediate-tinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718488352080:android:1f8158298c05f343ba2855",
+        "android_client_info": {
+          "package_name": "com.example.intermediatetinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718488352080-gkiai9bi3m1vebfkp9c9naqmvnovaidh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCYSaPcg6ZZ9VOjlwB0zjoeaSoEzkd6-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718488352080-gkiai9bi3m1vebfkp9c9naqmvnovaidh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
